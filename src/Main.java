@@ -17,6 +17,5 @@ public class Main {
 		G.deal();
 
 		System.out.println(G);
-
 	}
 }
